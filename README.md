@@ -1,6 +1,6 @@
 # ComputorV1
 
-ComputorV1 is a School 42 project. The purpose of this project is to create program which solve polynomials of degrees lower than 3.
+ComputorV1 is a School 42 project. The purpose of this project is to create program that solves polynomials of degrees lower than 3.
 
 [`computorV1.en.pdf`](/computorV1.en.pdf) is the task file.
 
